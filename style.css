@@ -11,7 +11,14 @@
   float:right;
 }
 
-
+.fieldset {
+  width: 60%;
+  background-color: rgb(167, 216, 200);
+  margin-top: 30px;
+  margin-left: 100px;
+  
+  
+}
 
 #menu {
   width: 260px;
